@@ -1,2 +1,2 @@
 
-<a href="/system-design-handbook/System-Design-Basics-Handbook.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
+[System-Design-Basics-Handbook.pdf](https://github.com/AmaanUllahKhan313/system-design-handbook/files/8190692/System-Design-Basics-Handbook.pdf)
